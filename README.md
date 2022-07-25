@@ -1,1 +1,1 @@
-# ejercicio1FibonacciAceraGuayaquil
+# ejercicio1FibonacciAceleraGuayaquil
